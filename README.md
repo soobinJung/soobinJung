@@ -195,7 +195,7 @@
   
    <tr>
     <td> 💡 Spring Batch 응용 + 에러 처리 </td>
-    <td> - </td>
+    <td> <a href='https://github.com/soobinJung/Naver-Sport-News-Batch-V2/blob/main/README.md' > SkipPolicy, SkipListener 황용 </a> </td>
      <td> Spring Batch 를 실무에서 사용하면서 chunk 별 에러 관리하는 방법에 대해 고민한 부분을 기록하기 </td>
   </tr>
 
