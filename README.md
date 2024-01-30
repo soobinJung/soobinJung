@@ -198,7 +198,21 @@
     <td> - </td>
      <td> Spring Batch 를 실무에서 사용하면서 chunk 별 에러 관리하는 방법에 대해 고민한 부분을 기록하기 </td>
   </tr>
+
  
+   <tr>
+    <td rowspan='3' > Spring 동시성 </td>
+    <td > 💡 Redis Lock </td>
+    <td> - </td>
+     <td> - </td>
+  </tr>
+
+   <tr>
+    <td> 💡 JPA Lock </td>
+    <td> - </td>
+     <td> - </td>
+  </tr>
+  
 </table>
 
 <hr/>
