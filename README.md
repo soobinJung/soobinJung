@@ -79,7 +79,7 @@
   
    <tr>
     <td> 💡 Spring AOP </td>
-    <td> - </td>
+    <td> <a href='https://github.com/soobinJung/Spring-AOP'>AOP 에 대해서 정리하기</a> </td>
      <td> - </td>
   </tr>
 
