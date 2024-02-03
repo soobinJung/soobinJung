@@ -195,7 +195,7 @@
   
    <tr>
     <td> 💡 Spring Batch 응용 + 에러 처리 </td>
-    <td> <a href='https://github.com/soobinJung/Naver-Sport-News-Batch-V2/tree/main' > SkipPolicy, SkipListener 황용 </a> </td>
+    <td> <a href='https://github.com/soobinJung/Naver-Sport-News-Batch-V2/tree/main' > SkipPolicy, SkipListener 활용 </a> </td>
      <td> Spring Batch 를 실무에서 사용하면서 chunk 별 에러 관리하는 방법에 대해 고민한 부분을 기록하기 </td>
   </tr>
 
@@ -209,8 +209,8 @@
 
    <tr>
     <td> 💡 JPA Lock </td>
-    <td> - </td>
-     <td> - </td>
+    <td> <a href='https://github.com/soobinJung/Jpa-Lock'></a> </td>
+     <td> Pessimistic, Optimistic, Named Lock  </td>
   </tr>
   
 </table>
