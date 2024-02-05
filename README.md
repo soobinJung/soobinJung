@@ -129,7 +129,7 @@
   
    <tr>
     <td> 💡 JWT Authentication </td>
-    <td> <a href='https://github.com/soobinJung/Spring-Security'> 회원가입 / 로그인 JWT 발급 개발하기 </a> </td>
+    <td> <a href='https://github.com/soobinJung/Spring-Security'> 회원가입 / 로그인 JWT 발급 개발하기 ! </a> </td>
      <td> - </td>
   </tr>
 
