@@ -165,8 +165,8 @@
   
    <tr>
     <td> 💡 Spring Data Redis </td>
-    <td> </td>
-     <td> - </td>
+    <td> <a href='https://github.com/soobinJung/Redis-Data-Structs'> Spring Data Redis 를 활용 </a> </td>
+     <td> Java 자료구조 데이터를 Redis 에서 관리하는 방법 </td>
   </tr>
 
    <tr>
