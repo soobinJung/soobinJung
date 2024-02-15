@@ -105,17 +105,11 @@
      <td> - </td>
   </tr>
 
-  <tr>
-    <td> Spring Architecture </td>
-    <td> 💡 Spring-Layered </td>
-    <td> - </td>
-     <td> - </td>
-  </tr> 
-  
+
    <tr>
     <td rowspan='4'> Spring Security </td>
     <td> 💡 Authentication </td>
-    <td> <a href='https://github.com/soobinJung/Spring-Layered-Architecture'>진행중</a> </td>
+    <td> - </td>
      <td> - </td>
   </tr>
 
@@ -220,6 +214,14 @@
     <td> <a href='https://github.com/soobinJung/Jpa-Lock'> Spring Data JPA 로 Lock 관리 </a> </td>
      <td> Pessimistic, Optimistic, Named Lock 활용  </td>
   </tr>
+
+  <tr>
+    <td> Architecture </td>
+    <td> 💡 Layered </td>
+    <td> <a href='https://github.com/soobinJung/Spring-Layered-Architecture'>진행중</a> </td>
+     <td> - </td>
+  </tr> 
+  
   
 </table>
 
