@@ -203,7 +203,7 @@
 
  
    <tr>
-    <td rowspan='3' > Spring 동시성 </td>
+    <td rowspan='2' > Spring 동시성 </td>
     <td > 💡 Redis Lock </td>
     <td> <a href='https://github.com/soobinJung/Redis-Lock'> Redis 로 Lock 관리 </a>  </td>
      <td> Lettuce , Redisson Lock 활용 </td>
