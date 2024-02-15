@@ -98,12 +98,19 @@
   </tr>
 
   
+
    <tr>
     <td> 💡 Spring Bean Scope </td>
     <td> - </td>
      <td> - </td>
   </tr>
 
+  <tr>
+    <td> Spring Architecture </td>
+    <td> 💡 Spring-Layered </td>
+    <td> - </td>
+     <td> - </td>
+  </tr> 
   
    <tr>
     <td rowspan='4'> Spring Security </td>
@@ -140,6 +147,7 @@
      <td> - </td>
     <td> - </td>
   </tr>
+
   
   
    <tr>
